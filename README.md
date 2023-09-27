@@ -1,24 +1,39 @@
-# Aurel 🚀
+# 👋 Salut, je suis Aurel!
 
-Salut! Je suis Aurel, étudiant passionné à [42](https://www.42.fr/). Après avoir passé un an en BUT informatique, j'ai décidé de me plonger dans l'aventure unique qu'offre la piscine de 42. J'adore résoudre des problèmes, apprendre de nouvelles technologies et collaborer sur des projets stimulants.
+🌟 Étudiant passionné à [42](https://www.42.fr/), j'ai toujours été fasciné par le monde de la technologie. Après une année enrichissante en BUT informatique, j'ai plongé dans l'aventure intense de la piscine de 42, et chaque jour est une nouvelle opportunité d'apprentissage et de découverte.
 
-<a href="https://github.com/Nyantad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyantad&show_icons=true&count_private=true&theme=radical" />
-</a>
-<a href="https://github.com/Nyantad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantad&layout=compact&theme=radical" />
-</a>
+<p align="center">
+  <a href="https://github.com/Nyantad">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyantad&show_icons=true&count_private=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantad&layout=compact&theme=radical" />
+  </a>
+</p>
 
-## 🛠 Compétences & Technologies
+## 🚀 Compétences & Technologies
 
-- **Langages**: Python, C, C++, Shell, SQL
-- **Environnements**: Unix
+- **Langages**: 
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  - ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+  
+- **Environnements**: 
+  - ![Unix](https://img.shields.io/badge/-Unix-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🌐 Connectons-nous!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aurel-suc-45027b1a9/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/nyantad)
-📧 **Email**: sucaurel@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/aurel-suc-45027b1a9/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/nyantad">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:sucaurel@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 📚 Mon Parcours
 
