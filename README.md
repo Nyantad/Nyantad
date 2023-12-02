@@ -45,7 +45,7 @@ Je suis actuellement concentré sur les projets de l'école 42, mais je suis tou
   <a href="https://github.com/Nyantad">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nyantad&show_icons=true&count_private=true&theme=radical" alt="Statistiques GitHub" />
     &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://github-readme-stats-qhs6dz3qy-nyantads-projects.vercel.app/api/top-langs/?username=Nyantad&layout=compact&theme=radical&count_private=true&role=OWNER,COLLABORATOR" alt="Langages les plus utilisés" />
+    <img src="https://github-readme-stats-qhs6dz3qy-nyantads-projects.vercel.app/api/top-langs/?username=Nyantad&layout=compact&theme=radical&count_private=true&role=OWNER,COLLABORATOR">
   </a>
 </p>
 
